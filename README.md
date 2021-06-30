@@ -34,6 +34,6 @@ Refined Obliterum Hoe (Crafted via Smithing table. See JEI for recipe).
 
 Enchantments:                            
 Enlightenment Enchant (Weapon enchant obtainable via enchanting table. Gives additonal exp on kill).            
--Placeholder- 
+-Placeholder-
 
 These changes are still a work in progress and may change.
