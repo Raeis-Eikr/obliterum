@@ -575,24 +575,6 @@
       "registry_name": "obliterum_fragment"
     },
     {
-      "name": "ObliterumBlock",
-      "type": "block",
-      "sortid": 66,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "obliterum_block"
-    },
-    {
-      "name": "RefinedObliterumBlock",
-      "type": "block",
-      "sortid": 67,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "refined_obliterum_block"
-    },
-    {
       "name": "RefinedObsidianOreBlockRecipe",
       "type": "recipe",
       "sortid": 68,
@@ -627,6 +609,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "obliterum_ore_block_recipe"
+    },
+    {
+      "name": "ObliterumBlock",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_block"
+    },
+    {
+      "name": "RefinedObliterumBlock",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_block"
     }
   ],
   "variable_elements": [],

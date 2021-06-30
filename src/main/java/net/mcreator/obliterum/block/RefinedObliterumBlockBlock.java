@@ -23,7 +23,7 @@ public class RefinedObliterumBlockBlock extends ObliterumModElements.ModElement 
 	@ObjectHolder("obliterum:refined_obliterum_block")
 	public static final Block block = null;
 	public RefinedObliterumBlockBlock(ObliterumModElements instance) {
-		super(instance, 67);
+		super(instance, 73);
 	}
 
 	@Override
