@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "obliterum:items/refined_obliterum_axe"
+  }
+}

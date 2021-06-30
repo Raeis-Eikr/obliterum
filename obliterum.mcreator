@@ -1,0 +1,696 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "IesmiteIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_ingot"
+    },
+    {
+      "name": "IesmiteBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_block"
+    },
+    {
+      "name": "IesmiteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_ore_block_recipe"
+    },
+    {
+      "name": "IesmiteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_block_ore_recipe"
+    },
+    {
+      "name": "IesmiteOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "iesmite_ore_smelting"
+    },
+    {
+      "name": "ManyullynSteelAlloy",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "manyullyn_steel_alloy"
+    },
+    {
+      "name": "ManyullynSteel",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manyullyn_steel"
+    },
+    {
+      "name": "ObliterumIngot",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_ingot"
+    },
+    {
+      "name": "ObliterumIngotAlloy",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "obliterum_ingot_alloy"
+    },
+    {
+      "name": "RefinedObliterumIngot",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_ingot"
+    },
+    {
+      "name": "RefinedObliterumAlloy",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "refined_obliterum_alloy"
+    },
+    {
+      "name": "Refined_ObliterumArmor",
+      "type": "armor",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Refined_ObliterumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_armor_helmet_recipe"
+    },
+    {
+      "name": "Refined_ObliterumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_armor_body_recipe"
+    },
+    {
+      "name": "Refined_ObliterumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_armor_leggings_recipe"
+    },
+    {
+      "name": "Refined_ObliterumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_armor_boots_recipe"
+    },
+    {
+      "name": "ObliterumArmor",
+      "type": "armor",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ObliterumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_armor_helmet_recipe"
+    },
+    {
+      "name": "ObliterumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_armor_body_recipe"
+    },
+    {
+      "name": "ObliterumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_armor_leggings_recipe"
+    },
+    {
+      "name": "ObliterumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_armor_boots_recipe"
+    },
+    {
+      "name": "IesmiteArmor",
+      "type": "armor",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "IesmiteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_armor_helmet_recipe"
+    },
+    {
+      "name": "IesmiteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_armor_body_recipe"
+    },
+    {
+      "name": "IesmiteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_armor_leggings_recipe"
+    },
+    {
+      "name": "IesmiteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_armor_boots_recipe"
+    },
+    {
+      "name": "IesmitePickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_pickaxe"
+    },
+    {
+      "name": "IesmiteAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_axe"
+    },
+    {
+      "name": "IesmiteSword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_sword"
+    },
+    {
+      "name": "IesmiteShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_shovel"
+    },
+    {
+      "name": "IesmiteHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_hoe"
+    },
+    {
+      "name": "IesmitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_pickaxe_recipe"
+    },
+    {
+      "name": "IesmiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_axe_recipe"
+    },
+    {
+      "name": "IesmiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_sword_recipe"
+    },
+    {
+      "name": "IesmiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_shovel_recipe"
+    },
+    {
+      "name": "IesmiteHoeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iesmite_hoe_recipe"
+    },
+    {
+      "name": "ObliterumPickaxe",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_pickaxe"
+    },
+    {
+      "name": "ObliterumAxe",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_axe"
+    },
+    {
+      "name": "ObliterumSword",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_sword"
+    },
+    {
+      "name": "ObliterumShovel",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_shovel"
+    },
+    {
+      "name": "ObliterumHoe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_hoe"
+    },
+    {
+      "name": "ObliterumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_pickaxe_recipe"
+    },
+    {
+      "name": "ObliterumAxeRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_axe_recipe"
+    },
+    {
+      "name": "ObliterumSwordRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_sword_recipe"
+    },
+    {
+      "name": "ObliterumShovelRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_shovel_recipe"
+    },
+    {
+      "name": "ObliterumHoeRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_hoe_recipe"
+    },
+    {
+      "name": "Refined_ObliterumPickaxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_pickaxe"
+    },
+    {
+      "name": "Refined_ObliterumAxe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_axe"
+    },
+    {
+      "name": "Refined_ObliterumSword",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_sword"
+    },
+    {
+      "name": "Refined_ObliterumShovel",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_shovel"
+    },
+    {
+      "name": "Refined_ObliterumHoe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_hoe"
+    },
+    {
+      "name": "Refined_ObliterumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_pickaxe_recipe"
+    },
+    {
+      "name": "Refined_ObliterumAxeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_axe_recipe"
+    },
+    {
+      "name": "Refined_ObliterumSwordRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_sword_recipe"
+    },
+    {
+      "name": "Refined_ObliterumShovelRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_shovel_recipe"
+    },
+    {
+      "name": "Refined_ObliterumHoeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_hoe_recipe"
+    },
+    {
+      "name": "Enlightenment",
+      "type": "enchantment",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enlightenment"
+    },
+    {
+      "name": "EnlightenmentProcedure",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enlightenment_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ObliterumFragment",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_fragment"
+    },
+    {
+      "name": "ObliterumBlock",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_block"
+    },
+    {
+      "name": "RefinedObliterumBlock",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obliterum_block"
+    },
+    {
+      "name": "RefinedObsidianOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obsidian_ore_block_recipe"
+    },
+    {
+      "name": "RefinedObsidianBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_obsidian_block_ore_recipe"
+    },
+    {
+      "name": "ObliterumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_block_ore_recipe"
+    },
+    {
+      "name": "ObliterumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_ore_block_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.obliterum.refined_obliterum_sword": "Refined_Obliterum Sword",
+      "item.obliterum.refined_obliterum_shovel": "Refined_Obliterum Shovel",
+      "item.obliterum.refined_obliterum_hoe": "Refined_Obliterum Hoe",
+      "enchantment.obliterum.enlightenment": "Enlightenment",
+      "item.obliterum.iesmite_armor_leggings": "Iesmite Leggings",
+      "block.obliterum.obliterum_block": "Obliterum Block",
+      "item.obliterum.iesmite_axe": "Iesmite Axe",
+      "item.obliterum.refined_obliterum_armor_boots": "Refined_Obliterum Boots",
+      "item.obliterum.refined_obliterum_armor_chestplate": "Refined_Obliterum Chestplate",
+      "item.obliterum.manyullyn_steel": "Manyullyn Steel Ingot",
+      "item.obliterum.obliterum_armor_chestplate": "Obliterum Chestplate",
+      "item.obliterum.obliterum_armor_helmet": "Obliterum Helmet",
+      "item.obliterum.refined_obliterum_axe": "Refined_Obliterum Axe",
+      "item.obliterum.iesmite_ingot": "Iesmite Ingot",
+      "item.obliterum.refined_obliterum_armor_helmet": "Refined_Obliterum Helmet",
+      "item.obliterum.obliterum_armor_leggings": "Obliterum Leggings",
+      "item.obliterum.iesmite_armor_helmet": "Iesmite Helmet",
+      "item.obliterum.iesmite_armor_chestplate": "Iesmite Chestplate",
+      "item.obliterum.refined_obliterum_pickaxe": "Refined_Obliterum Pickaxe",
+      "block.obliterum.iesmite_block": "Block of Iesmite",
+      "item.obliterum.iesmite_hoe": "Iesmite Hoe",
+      "item.obliterum.iesmite_pickaxe": "Iesmite Pickaxe",
+      "item.obliterum.obliterum_pickaxe": "Obliterum Pickaxe",
+      "item.obliterum.obliterum_shovel": "Obliterum Shovel",
+      "block.obliterum.refined_obliterum_block": "Refined Obliterum Block",
+      "item.obliterum.obliterum_armor_boots": "Obliterum Boots",
+      "item.obliterum.iesmite_shovel": "Iesmite Shovel",
+      "item.obliterum.refined_obliterum_ingot": "Refined Obliterum Ingot",
+      "item.obliterum.obliterum_hoe": "Obliterum Hoe",
+      "item.obliterum.iesmite_sword": "Iesmite Sword",
+      "item.obliterum.obliterum_fragment": "Obliterum Fragment",
+      "item.obliterum.refined_obliterum_armor_leggings": "Refined_Obliterum Leggings",
+      "item.obliterum.iesmite_armor_boots": "Iesmite Boots",
+      "item.obliterum.obliterum_ingot": "Obliterum Ingot",
+      "item.obliterum.obliterum_axe": "Obliterum Axe",
+      "item.obliterum.obliterum_sword": "Obliterum Sword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "obliterum",
+    "modName": "Obliterum2",
+    "version": "2.0.3",
+    "author": "Raeis_Eikr",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "_CobaltWolf_ for textures. Reynales for some ideas.",
+    "modElementsPackage": "net.mcreator.obliterum",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,36 @@
+{
+  "type": "thermal:smelter",
+  "input": [
+    {
+      "value": [
+        {
+          "item": "obliterum:obliterum_ingot"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "item": "obliterum:iesmite_ingot"
+        }
+      ],
+      "count": 1
+    },
+      {
+      "value": [
+        {
+          "item": "obliterum:manyullyn_steel"
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "obliterum:refined_obliterum_ingot",
+      "count": 3
+    }
+  ],
+  "energy": 4800
+}

@@ -1,0 +1,29 @@
+{
+  "group": "obliterum",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "obliterum:obliterum_ingot"
+    },
+    "1": {
+      "item": "obliterum:obliterum_ingot"
+    },
+    "2": {
+      "item": "obliterum:obliterum_ingot"
+    },
+    "3": {
+      "item": "obliterum:obliterum_ingot"
+    },
+    "5": {
+      "item": "obliterum:obliterum_ingot"
+    }
+  },
+  "result": {
+    "item": "obliterum:obliterum_armor_helmet",
+    "count": 1
+  }
+}

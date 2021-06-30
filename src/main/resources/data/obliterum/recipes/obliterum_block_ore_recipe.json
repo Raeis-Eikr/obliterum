@@ -1,0 +1,13 @@
+{
+  "group": "obliterum",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "obliterum:obliterum_block"
+    }
+  ],
+  "result": {
+    "item": "obliterum:obliterum_ingot",
+    "count": 9
+  }
+}

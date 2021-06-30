@@ -1,0 +1,13 @@
+{
+  "group": "obliterum",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "obliterum:iesmite_block"
+    }
+  ],
+  "result": {
+    "item": "obliterum:iesmite_ingot",
+    "count": 9
+  }
+}

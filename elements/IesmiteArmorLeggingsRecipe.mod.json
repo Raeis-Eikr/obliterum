@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:IesmiteIngot"
+      },
+      {
+        "value": "CUSTOM:IesmiteIngot"
+      },
+      {
+        "value": "CUSTOM:IesmiteIngot"
+      },
+      {
+        "value": "CUSTOM:IesmiteIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IesmiteIngot"
+      },
+      {
+        "value": "CUSTOM:IesmiteIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IesmiteIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:IesmiteArmor.legs"
+    },
+    "name": "iesmite_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

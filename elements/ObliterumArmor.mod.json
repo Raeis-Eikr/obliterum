@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "obliterum_head",
+    "enableBody": true,
+    "textureBody": "obliterum_body",
+    "enableLeggings": true,
+    "textureLeggings": "obliterum_leggings",
+    "enableBoots": true,
+    "textureBoots": "obliterum_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "obliterum_p",
+    "helmetName": "Obliterum Helmet",
+    "bodyName": "Obliterum Chestplate",
+    "leggingsName": "Obliterum Leggings",
+    "bootsName": "Obliterum Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 15,
+    "damageValueHelmet": 4,
+    "damageValueBody": 6,
+    "damageValueLeggings": 8,
+    "damageValueBoots": 4,
+    "enchantability": 70,
+    "toughness": 2.0,
+    "knockbackResistance": 0.3,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:ObliterumIngot"
+      }
+    ]
+  }
+}

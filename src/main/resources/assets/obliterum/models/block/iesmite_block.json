@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "obliterum:blocks/iesmite_ore_block",
+    "particle": "obliterum:blocks/iesmite_ore_block"
+  }
+}

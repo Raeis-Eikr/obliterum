@@ -1,0 +1,36 @@
+{
+  "group": "obliterum",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "obliterum:iesmite_ingot"
+    },
+    "1": {
+      "item": "obliterum:iesmite_ingot"
+    },
+    "2": {
+      "item": "obliterum:iesmite_ingot"
+    },
+    "3": {
+      "item": "obliterum:iesmite_ingot"
+    },
+    "5": {
+      "item": "obliterum:iesmite_ingot"
+    },
+    "6": {
+      "item": "obliterum:iesmite_ingot"
+    },
+    "8": {
+      "item": "obliterum:iesmite_ingot"
+    }
+  },
+  "result": {
+    "item": "obliterum:iesmite_armor_leggings",
+    "count": 1
+  }
+}

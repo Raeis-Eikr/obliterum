@@ -1,0 +1,27 @@
+{
+  "group": "obliterum",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "obliterum:iesmite_ingot"
+    },
+    "1": {
+      "item": "obliterum:iesmite_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "obliterum:iesmite_hoe",
+    "count": 1
+  }
+}

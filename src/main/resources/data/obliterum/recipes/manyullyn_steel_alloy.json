@@ -1,0 +1,28 @@
+{
+  "type": "thermal:smelter",
+  "input": [
+    {
+      "value": [
+        {
+          "item": "botania:terrasteel_ingot"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "value": [
+        {
+          "item": "tconstruct:manyullyn_ingot"
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "obliterum:manyullyn_steel",
+      "count": 3
+    }
+  ],
+  "energy": 4800
+}

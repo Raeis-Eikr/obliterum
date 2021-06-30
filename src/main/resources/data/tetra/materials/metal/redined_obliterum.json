@@ -1,0 +1,31 @@
+{
+    "key": "refined_obliterum",
+    "category": "metal",
+    "primary": "32",
+    "secondary": "10",
+    "tertiary": "1",
+    "durability": "4600",
+    "integrityCost": "2",
+    "integrityGain": "10",
+    "magicCapacity": "288",
+    "toolLevel": "6",
+    "toolEfficiency": "12",
+    "tints": {
+        "glyph": "553D84",
+        "texture": "553D84"
+    },
+    "textures": [
+        "shiny",
+        "metal"
+    ],
+    "material": {
+        "item": "obliterum:refined_obliterum_ingot"
+    },
+    "attributes": {
+        "generic.attack_damage": 4,
+        "generic.attack_speed": -0.6
+    },
+    "requiredTools": {
+        "hammer": 4
+    }
+}

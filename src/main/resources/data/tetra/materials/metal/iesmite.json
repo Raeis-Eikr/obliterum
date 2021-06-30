@@ -1,0 +1,31 @@
+{
+    "key": "iesmite",
+    "category": "metal",
+    "primary": "16",
+    "secondary": "10",
+    "tertiary": "1",
+    "durability": "2500",
+    "integrityCost": "2",
+    "integrityGain": "10",
+    "magicCapacity": "150",
+    "toolLevel": "6",
+    "toolEfficiency": "12",
+    "tints": {
+        "glyph": "32627D",
+        "texture": "32627D"
+    },
+    "textures": [
+        "shiny",
+        "metal"
+    ],
+    "material": {
+        "item": "obliterum:iesmite_ingot"
+    },
+    "attributes": {
+        "generic.attack_damage": 2,
+        "generic.attack_speed": -0.4
+    },
+    "requiredTools": {
+        "hammer": 4
+    }
+}
