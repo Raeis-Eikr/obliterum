@@ -13,6 +13,8 @@ Obliterum Block (9x Obliterum Ingots).
 Refined Oblierum Block (9x Refined Obliterum Ingots).              
 
 Items:                    
+Manyullyn Steel (Alloy of Manyullyn and Terrasteel).                  
+
 Iesmite Ingot (Alloy of Iesnium and Netherite).                    
 Iesmite Sword (Crafted via Smithing table. See JEI for recipe).             
 Iesmite Axe (Crafted via Smithing table. See JEI for recipe).               
