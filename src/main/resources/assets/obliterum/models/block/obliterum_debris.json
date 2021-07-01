@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "obliterum:blocks/obiterum_ore11",
+    "up": "obliterum:blocks/obiterum_ore11",
+    "north": "obliterum:blocks/obiterum_ore11",
+    "east": "obliterum:blocks/obiterum_ore11",
+    "south": "obliterum:blocks/obiterum_ore11",
+    "west": "obliterum:blocks/obiterum_ore11",
+    "particle": "obliterum:blocks/obiterum_ore11"
+  }
+}
